@@ -12,7 +12,7 @@ import (
 	"github.com/trustwallet/assets-go-libs/validation/list"
 	"github.com/trustwallet/assets-go-libs/validation/tokenlist"
 	"github.com/trustwallet/assets/internal/config"
-	"github.com/trustwallet/assets/internal/file"
+	"github.com/trustwallet/assets-go-libs/file"
 	"github.com/trustwallet/go-primitives/coin"
 )
 
